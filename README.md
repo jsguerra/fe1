@@ -1,4 +1,4 @@
-#Micro Front End App 1
+# Micro Front End App 1
 This project is setup using **Next.js 13.2** and bootstrapped with **create-next-app@latest**.
 
 > This project does not use the experimental **App directory** or Next.js version 12's **Src directory**. Setup with plain JavaScript.
@@ -32,8 +32,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 │   ├── blog.jsx
 │   └── index.js
 ├── public/
-│   ├── components/
-│   └── pages/
 ├── styles/
 │   ├── global.css
 │   └── Home.module.css
