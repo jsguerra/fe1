@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 60px;
+  background-color: skyblue;
+  margin-bottom: 60px;
+}
+
+.nav a {
+  margin-right: 20px;
+}
+
+.nav a:last-child {
+  margin-right: 0;
+}
